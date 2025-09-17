@@ -1,2 +1,2 @@
 # About Me
-I am particularly interested in computer vision, NLP and its applications in healthcare technology.
+I'm a Master's student in AI at the University at Buffalo, and what really gets me excited is building things that actually help people. Most of my time is spent diving into Machine Learning, Deep Learning, and Computer Vision. Python is my go-to language, and I love using tools like TensorFlow, PyTorch, and OpenCV to bring ideas to life. I’ve had the chance to apply these skills to some really interesting areas, from healthcare AI to financial LLMs. For me, the best part is the puzzle of taking complex data and turning it into a practical tool that can make a real difference.
